@@ -1,0 +1,16 @@
+{
+    "name": "scroll-web3-integration",
+    "version": "1.0.0",
+    "description": "A simple Web3.js integration with the Scroll network",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "web3": "^1.5.2"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
